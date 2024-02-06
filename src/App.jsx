@@ -13,6 +13,7 @@ function App() {
     <>
       <div>
         <h1>Test de hola mundo</h1>
+        <p>Prueba</p>
         <pre>{JSON.stringify(message, null, 2)}</pre>
       </div>
     </>
